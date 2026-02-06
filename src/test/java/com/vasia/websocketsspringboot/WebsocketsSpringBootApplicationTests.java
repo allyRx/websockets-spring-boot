@@ -1,0 +1,13 @@
+package com.vasia.websocketsspringboot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WebsocketsSpringBootApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
